@@ -1,5 +1,4 @@
-# duofeng.github.io
-### 夺锋
+# 夺锋
 
 #### 作者 白山黑水 [http://weibo.com/margezitar](http://weibo.com/margezitar)
 ####文案
